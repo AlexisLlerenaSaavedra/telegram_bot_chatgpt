@@ -45,11 +45,11 @@ public class TelegramBoot extends TelegramLongPollingBot {
 
     @Override
     public String getBotUsername() {
-        return "Proyectochat_bot";
+        return "nombre del bot creado telegram";
     }
 
     @Override
     public String getBotToken() {
-        return "6120182369:AAHcKci81ssujXpBLgziMPIZPRvwzbU4S0s";
+        return "colocar api-key-chatgpt generada";
     }
 }
